@@ -1,0 +1,33 @@
+Postfix Expression: 
+	 Solution = 12
+
+Postfix Expression: 
+	 Solution = 37
+
+Postfix Expression: 
+	 Solution = 30
+
+Postfix Expression: 
+	 Solution = -671
+
+Postfix Expression: 
+	 Solution = 8.75
+
+Postfix Expression: 
+	 Solution = 32
+
+Postfix Expression: 
+	 Solution = 503.286
+
+Postfix Expression: 
+	 Solution = 2
+
+Postfix Expression: 
+	 Solution = 2187
+
+Postfix Expression: 
+	 Solution = 33
+
+Postfix Expression: 
+	 Solution = 45
+
