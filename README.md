@@ -1,5 +1,5 @@
 # Infix-to-Postfix-Evaluation
-    You are to implement a program that converts an infix expression into a postfix
+     You are to implement a program that converts an infix expression into a postfix
      expression and then evaluate the postfix expression.  You are to use the Stack and Queue
      classes you developed with your last assignment where Stack and Queue use your Array class
      to manage the data in the stack and the queue.
